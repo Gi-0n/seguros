@@ -1221,8 +1221,8 @@ blockquote{
     display:inline-block;
     text-align:center;
     line-height:35px;
-    bottom:13%;
-    right:4%;
+    bottom:10%;
+    left:4%;
     -webkit-transform:scale(0);
     -ms-transform:scale(0);
     transform:scale(0);
