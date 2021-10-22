@@ -1135,9 +1135,6 @@ blockquote{
 .widget.widget_contact_info .single-info p a{
     display:block
 }
-.widget.widget_contact_info .single-info p a:not(:last-child):after{
-    content:','
-}
 .widget.widget_recent_entries .single-post:not(:last-child),.widget.widget_related_post .single-post:not(:last-child){
     padding-bottom:30px;
     margin-bottom:30px;
